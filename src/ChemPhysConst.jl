@@ -15,7 +15,7 @@ Module containing important physical and chemical constants (amended as needed).
 
 `M25 = 0.101325Na/298R ≈ 2.548e19` molecules cm⁻³ (air number density at 1 atm and 25C)
 
-`M15 = 0.101325Na/288R ≈ 2.463e19`` molecules cm⁻³ (air number density at 1 atm and 15C)
+`M15 = 0.101325Na/288R ≈ 2.463e19` molecules cm⁻³ (air number density at 1 atm and 15C)
 
 `M(T) = 0.101325Na/(T⋅R)` molecules cm⁻³
 (air number density at 1 atm and temperature T in K)
