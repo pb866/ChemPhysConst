@@ -2,6 +2,20 @@
 
 Module containing important physical and chemical constants (amended as needed).
 
+
+## Installation
+
+Install with
+
+```julia
+using Pkg
+Pkg.add("https://github.com/pb866/ChemPhysConst.git")
+using ChemPhysConst
+```
+
+Alternatively, open the package manager by pressing `]` in Julia and run `add https://github.com/pb866/ChemPhysConst.git` in the package manager. Leave the package manager with the backspace key and type `using ChemPhysConst` in Julia.
+
+
 ## Current constants
 
 `Na = 6.022e23` molecules mol⁻¹ (Avogadro's constant)  
